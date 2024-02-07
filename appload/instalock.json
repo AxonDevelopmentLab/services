@@ -1,4 +1,5 @@
 {
   "version": "1.0.0-BETA01",
-  "changelogs": "<b>v1.0.0-BETA01</b><br>Lançamento do aplicativo em estado BETA."
+  "changelogs": "<b>v1.0.0-BETA01</b><br>Lançamento do aplicativo em estado BETA.",
+  "downloadURL": "https://axonlab.glitch.me/"
 }
