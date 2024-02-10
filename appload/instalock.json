@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0-BETA.01",
-  "changelogs": "<b>v1.0.0-BETA.01</b><br>Lançamento do aplicativo em estado BETA.",
-  "downloadURL": "https://github.com/AxonDevelopmentLab/instalockapp/releases/download/v1.0.0-BETA.1/InstalockAPP.zip"
+  "version": "1.0.0-BETA.02",
+  "changelogs": "<b>v1.0.0-BETA.02</b><br>A versão <b>v1.0.0-BETA.02</b> foi lançada com algumas correções, veja mais informações logo abaixo.<br>O Serviço de Instalock é por assinatura, porém contém teste grátis.<br><br><b>Changelogs</b><br>Novo sistema de detecção de alteração de resolução.<br>Suporte à resolução 4:3.<br>Melhorias no sistema de segurança.<br>Melhoria nas logs de atividade.<br>Iniciado o desenvolvimento do sistema de convites, onde será possivel convidar pessoas para usar o Instalock, e você e o convidado ganharão +5 Picks Gratuítos.<br>Correções nos serviços da AxonLab.<br>Melhorias visuais e bugs iternos.<br><br><b>v1.0.0-BETA.01</b><br>Lançamento do APP na versão BETA.",
+  "downloadURL": "https://github.com/AxonDevelopmentLab/instalockapp/releases/download/v1.0.0-BETA.02/InstalockAPP.zip"
 }
