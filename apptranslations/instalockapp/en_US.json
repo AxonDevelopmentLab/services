@@ -1,3 +1,28 @@
 {
- "test": "hi" 
+        "ja_JP": {
+            "Brimstone": "ブリムストーン",
+            "Phoenix": "フェニックス",
+            "Sage": "セージ",
+            "Sova": "ソーヴァ",
+            "Viper": "ヴァイパー",
+            "Cypher": "サイファー",
+            "Reyna": "レイナ",
+            "Killjoy": "キルジョイ",
+            "Breach": "ブリーチ",
+            "Omen": "オーメン",
+            "Jett": "ジェット",
+            "Raze": "レイズ",
+            "Skye": "スカイ",
+            "Yoru": "ヨル",
+            "Astra": "アストラ",
+            "KAY/O": "KAY/O",
+            "Chamber": "チェンバー",
+            "Neon": "ネオン",
+            "Fade": "フェイド",
+            "Harbor": "ハーバー",
+            "Gekko": "ゲッコー",
+            "Deadlock": "デッドロック",
+            "Iso": "アイソ",
+            "Clove": "クローブ"
+        }
 }
